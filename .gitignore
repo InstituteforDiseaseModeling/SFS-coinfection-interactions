@@ -1,0 +1,5 @@
+# DB credentials
+credentials/
+./credentials/.pg_service.conf
+./credentials/.pgpass
+
